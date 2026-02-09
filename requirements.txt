@@ -10,3 +10,4 @@ ffprobe
 asyncio
 humanize
 flask
+gunicorn
